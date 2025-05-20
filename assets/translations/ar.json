@@ -1,0 +1,22 @@
+{
+    "language_page": {
+        "chooseLanguage": "اختر اللغة",
+        "arabic": "عربي",
+        "english": "انجليزي"
+    },
+    "login_page": {
+        
+          "welcomeToMyApp": "مرحبا بك في تطبيقي",
+          "signInWithYourEmailAndPassword":  "تسجيل الدخول بالبريد الالكتروني وكلمة المرور",
+          "email": "البريد الالكتروني",
+          "enterYourEmail": "ادخل البريد الالكتروني",
+          "password": "كلمة المرور",
+          "enteryourPassword": "ادخل كلمة المرور",
+          "forgetPassword": "نسيت كلمة المرور",
+          "signIn": "تسجيل الدخول",
+          "doNotHaveAnAccount": "ليس لديك حساب؟",
+          "signUp": "انشاء حساب"
+    }
+      
+}
+

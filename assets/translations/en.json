@@ -1,0 +1,20 @@
+{
+    "language_page": {
+        "chooseLanguage": "Choose Language",
+        "arabic": "Arabic",
+        "english": "English"
+    },
+    "login_page": {
+        
+          "welcomeToMyApp": "Welcome to MyApp",
+          "signInWithYourEmailAndPassword":  "Sign in with your email and password",
+          "email": "Email",
+          "enterYourEmail": "Enter your email",
+          "password": "Password",
+          "enteryourPassword": "Enter your Password",
+          "forgetPassword": "Forget Password",
+          "signIn": "Sign In",
+          "doNotHaveAnAccount": "Don't have an account?",
+          "signUp": "Sign Up"
+    }
+}
