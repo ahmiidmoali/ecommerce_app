@@ -1,16 +1,73 @@
 # enhanced_ecommerce_app
+ Email authentication , product CRUD operations, and essential user actions like cart management, checkout, and selling.
+Integrated a responsive app notification system for enhanced user communication.
+## Tools
 
-A new Flutter project.
+- Authentication: Email -PHP REST APIs
+- Backend: PHP- MYSQL
+- State management: Cubit
 
-## Getting Started
+- Packages:
+  - get_it
+  - equatable
+  - fluttertoast
+  - easy_localization
+  - firebase_messaging
+  - uuid
+  - flutter_screenutil
+  - flutter_launcher_icons
+  - pin_code_fields
+  - cached_network_image
+  - shared_preferences
+  
+## Screenshots
+<table>
+  <tr>
+    <td><img src="ecommerce_app-screenshots/lang1.png" width=270 height=480></td>
+     <td><img src="ecommerce_app-screenshots/welcome1.png" width=270 height=480></td>
+     <td><img src="ecommerce_app-screenshots/login1.png" width=270 height=480></td>
+  </tr>
+ <tr>
+  <td><img src="ecommerce_app-screenshots/signup1.png" width=270 height=480></td>
+    <td><img src="ecommerce_app-screenshots/forgetp1.png" width=270 height=480></td>
+     <td><img src="ecommerce_app-screenshots/login2.png" width=270 height=480></td>
+    </tr>
+  
+     <tr>
+  <td><img src="ecommerce_app-screenshots/home1.png" width=270 height=480></td>
+    <td><img src="ecommerce_app-screenshots/cat1.png" width=270 height=480></td>
+     <td><img src="ecommerce_app-screenshots/item1.png" width=270 height=480></td>
+    </tr>
 
-This project is a starting point for a Flutter application.
+     <tr>
+  <td><img src="ecommerce_app-screenshots/item2.png" width=270 height=480></td>
+    <td><img src="ecommerce_app-screenshots/cart1.png" width=270 height=480></td>
+     <td><img src="ecommerce_app-screenshots/cart2.png" width=270 height=480></td>
+    </tr>
 
-A few resources to get you started if this is your first Flutter project:
+ <tr>
+  <td><img src="ecommerce_app-screenshots/ship1.png" width=270 height=480></td>
+    <td><img src="ecommerce_app-screenshots/address2.png" width=270 height=480></td>
+     <td><img src="ecommerce_app-screenshots/address3.png" width=270 height=480></td>
+    </tr>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ <tr>
+  <td><img src="ecommerce_app-screenshots/peyment1.png" width=270 height=480></td>
+    <td><img src="ecommerce_app-screenshots/review1.png" width=270 height=480></td>
+     <td><img src="ecommerce_app-screenshots/success1.png" width=270 height=480></td>
+    </tr>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <tr>
+  <td><img src="ecommerce_app-screenshots/account1.png" width=270 height=480></td>
+    <td><img src="ecommerce_app-screenshots/orders1.png" width=270 height=480></td>
+     <td><img src="ecommerce_app-screenshots/orderdetails1.png" width=270 height=480></td>
+    </tr>
+
+   <tr>
+  <td><img src="ecommerce_app-screenshots/search1.png" width=270 height=480></td>
+    <td><img src="ecommerce_app-screenshots/fav1.png" width=270 height=480></td>
+     
+    </tr>
+    
+
+  </table>
